@@ -1,0 +1,6 @@
+vpc_cidr_block = "10.0.0.0/16"
+subnet_cidr_block_main = "10.0.1.0/24"
+subnet_cidr_block_main2 = "10.0.2.0/24"
+subnet_availability_zone_main2 = "us-east-1a"
+subnet_availability_zone_main = "us-east-1b"
+name_eks = "my_cluster"
